@@ -32,4 +32,4 @@ To load a texture, you can edit the source code like this (It automatically look
 engine.LoadTexture("filename.jpg");
 ```
 
-<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/395f7bc6-662f-40de-8b4f-93374248f9b9" />
+<img alt="image" src="https://i.imgur.com/9Bz7drR.gif" />
