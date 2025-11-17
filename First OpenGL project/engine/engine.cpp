@@ -161,7 +161,7 @@ void Engine::Terminate() {
 }
 
 void Engine::Clear() {
-	glClearColor(0, 0, 0, 1); // change this back to black when I have unfucked textures and/or added a sky box
+	glClearColor(0, 0, 0, 1);
 	glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
 }
 
