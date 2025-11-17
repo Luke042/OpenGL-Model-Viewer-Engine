@@ -23,4 +23,4 @@ To load a custom model, you can edit the source code like this:
 ```Cpp
 mesh.MakeMesh("Path_to_model");
 
-![Preview Image](FirstOpenGLProject/images/image.png)
+![Preview Image](First%20OpenGL%20project/images/image.png)
