@@ -1,0 +1,15 @@
+# Visual Studio cache and build output
+.vs/
+x64/
+Release/
+Debug/
+build/
+
+# Compiled and binary files
+*.exe
+*.dll
+*.lib
+*.pdb
+*.idb
+*.obj
+*.enc
